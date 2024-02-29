@@ -1,0 +1,92 @@
+body {
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+.finally {
+    background-color: white;
+    width: 500px;
+    /* 와 한번에 맞췄네ㅋㅋ*/
+}
+.letsgo {
+    position: relative;
+    top: 150px;
+}
+div {
+    margin: 0 auto;
+    
+}
+.appbar {
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 500px;
+}
+
+.realbar {
+    text-align: center;
+
+}
+
+.mibar {
+    text-align: center;
+    background-color: gray;
+    text-align: center;
+
+}
+
+.wbar {
+    text-align: center;
+    background-color: #212022;
+    width: 500px;
+    height: 50px;
+}
+
+.imgw {
+    width: 250px;
+    position: relative;
+    bottom: 45px;
+}
+
+.middlebar {
+    background-color: white;
+    width: 500px;
+    height: 400px;
+}
+
+.middlebar2 {
+    background-color: black;
+    width: 500px;
+    height: 100px;
+}
+
+.win {
+    background-image: url("win10b.jpg");
+    background-size: cover;
+}
+
+.alpha {
+    position: relative;
+    top: 50px;
+    height: 300px;
+    background-image: url("alphanice.jpg");
+    background-size: cover
+}
+.but {
+    position: relative;
+    bottom: 20px;
+    width: 250px;
+    font-size: 35px;
+    color: white;
+    background-color: #269136;
+    border-color: white;
+    outline: 2px solid black;
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+.textbar {
+    position: relative;
+    top: 275px;
+    text-align: left;
+    color: white;
+    background-color: black; opacity: 0.7;
+}
